@@ -2,3 +2,4 @@ venv/
 logs/
 LLMOPS_4.egg-info/
 .env/
+".env" 
